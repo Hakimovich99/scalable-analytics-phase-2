@@ -1,0 +1,6 @@
+('CB1699', {'BetaVector': array([[-0.6622284 ],
+       [ 1.15262011]]), 'Variance': array([[ 9.71540230e-06, -6.56643267e-07],
+       [-6.56643267e-07,  1.51355924e-07]]), 'ForgettingFactor': 1, 'SSE': array([[912968.26888749]]), 'Forecast': array([[1.64301183]]), 'N': 145632, 'MSE': array([[27.09426249]]), 'N_MSE': 33696, 'LastObservations': []})
+('CVT387', {'BetaVector': array([[-0.64579935],
+       [ 1.25142466]]), 'Variance': array([[ 8.81952978e-06, -7.60549280e-07],
+       [-7.60549280e-07,  2.96191162e-07]]), 'ForgettingFactor': 1, 'SSE': array([[1054483.32154544]]), 'Forecast': array([[-0.64579935]]), 'N': 145632, 'MSE': array([[31.2940207]]), 'N_MSE': 33696, 'LastObservations': []})

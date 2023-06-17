@@ -1,0 +1,3 @@
+('CAT17', {'BetaVector': array([[-0.61021132],
+       [ 1.08098785]]), 'Variance': array([[ 8.94168077e-06, -2.75449843e-07],
+       [-2.75449843e-07,  3.65640103e-08]]), 'ForgettingFactor': 1, 'SSE': array([[2275687.55039904]]), 'Forecast': array([[1.55176438]]), 'N': 145632, 'MSE': array([[67.53583661]]), 'N_MSE': 33696, 'LastObservations': []})

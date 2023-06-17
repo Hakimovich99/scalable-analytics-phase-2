@@ -1,0 +1,6 @@
+('CB2105', {'BetaVector': array([[-1.88066268],
+       [ 1.14004763]]), 'Variance': array([[ 1.40598834e-05, -5.35627908e-07],
+       [-5.35627908e-07,  3.98841470e-08]]), 'ForgettingFactor': 1, 'SSE': array([[3085731.91590151]]), 'Forecast': array([[3.81957547]]), 'N': 145632, 'MSE': array([[91.57561479]]), 'N_MSE': 33696, 'LastObservations': []})
+('CEE016', {'BetaVector': array([[-1.71589868],
+       [ 1.17079131]]), 'Variance': array([[ 1.13087776e-05, -4.42269003e-07],
+       [-4.42269003e-07,  4.40330585e-08]]), 'ForgettingFactor': 1, 'SSE': array([[5269796.41898395]]), 'Forecast': array([[4.13805788]]), 'N': 145632, 'MSE': array([[156.39234387]]), 'N_MSE': 33696, 'LastObservations': []})

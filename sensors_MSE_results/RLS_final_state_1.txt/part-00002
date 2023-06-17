@@ -1,0 +1,12 @@
+('CB1143', {'BetaVector': array([[-7.21705458],
+       [ 1.51131724]]), 'Variance': array([[ 9.06491434e-06, -1.56005214e-07],
+       [-1.56005214e-07,  1.10711310e-08]]), 'ForgettingFactor': 1, 'SSE': array([[18453983.41013729]]), 'Forecast': array([[-1.17178562]]), 'N': 145632, 'MSE': array([[547.66095116]]), 'N_MSE': 33696, 'LastObservations': []})
+('CEK049', {'BetaVector': array([[-1.569282  ],
+       [ 1.09828441]]), 'Variance': array([[ 1.29910188e-05, -3.83544342e-07],
+       [-3.83544342e-07,  2.40196986e-08]]), 'ForgettingFactor': 1, 'SSE': array([[2835730.45590232]]), 'Forecast': array([[2.82385566]]), 'N': 145632, 'MSE': array([[84.15629321]]), 'N_MSE': 33696, 'LastObservations': []})
+('CEK31', {'BetaVector': array([[-0.50578912],
+       [ 1.05976113]]), 'Variance': array([[ 8.63454471e-06, -2.08939101e-07],
+       [-2.08939101e-07,  2.46930757e-08]]), 'ForgettingFactor': 1, 'SSE': array([[2964967.99069069]]), 'Forecast': array([[3.7332554]]), 'N': 145632, 'MSE': array([[87.99169013]]), 'N_MSE': 33696, 'LastObservations': []})
+('CJM90', {'BetaVector': array([[-1.9195469 ],
+       [ 1.06348086]]), 'Variance': array([[ 1.31555112e-05, -2.07989221e-07],
+       [-2.07989221e-07,  6.87871689e-09]]), 'ForgettingFactor': 1, 'SSE': array([[7460844.87058523]]), 'Forecast': array([[8.71526171]]), 'N': 145632, 'MSE': array([[221.41633638]]), 'N_MSE': 33696, 'LastObservations': []})

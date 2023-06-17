@@ -1,0 +1,3 @@
+('CJE181', {'BetaVector': array([[-0.61776854],
+       [ 1.37205992]]), 'Variance': array([[ 9.03148176e-06, -1.30397991e-06],
+       [-1.30397991e-06,  7.85436777e-07]]), 'ForgettingFactor': 1, 'SSE': array([[509927.57792001]]), 'Forecast': array([[0.75429137]]), 'N': 145632, 'MSE': array([[15.13317836]]), 'N_MSE': 33696, 'LastObservations': []})
